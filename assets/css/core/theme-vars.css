@@ -30,9 +30,5 @@
 }
 
 .list {
-    background: var(--code-bg);
-}
-
-.dark.list {
     background: var(--theme);
 }
